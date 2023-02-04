@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Hotel Shiva",
+    "imageurls": [
+      "https://www.luxurytravelmagazine.com/files/610/2/2822/Sofitel_Paris_le_Faubourg_01_big_bu.jpg",
+      "https://smallandeleganthotels.com/images/hotels/paris/_DSC9877b.jpg"
+    ],
+    "rentperday": 1500,
+    "type": "Deluxe",
+    "maxcount": 3,
+    "phonenumber": 456986875357,
+    "curremtbookings": [],
+    "description": "Hotel Shiva is located in Badagry Lagos state"
+  },
+  {
+    "name": "Stella hotel",
+    "imageurls": [
+      "https://imgcy.trivago.com/c_limit,d_dummy.jpeg,f_auto,h_650,q_auto,w_1000/itemimages/44/87/44878_v3.jpeg",
+      "https://media-cdn.tripadvisor.com/media/photo-s/10/77/57/9e/laudon.jpg"
+    ],
+    "rentperday": 3500,
+    "type": "Deluxe",
+    "maxcount": 2,
+    "phonenumber": 4345986875357,
+    "curremtbookings": [],
+    "description": "Stella hotel is located in Gaa-Kanbi Kwara state"
+  },
+  {
+    "name": "Toyin Hotel",
+    "imageurls": [
+      "https://th.bing.com/th/id/R.fac43047864193ebc599fd32f00ee371?rik=IRt%2b3mbTddArBA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-A7EcPsl4jCM%2fUmJ1mZlaGeI%2fAAAAAAAAR3g%2f8Z_8HyVp9OU%2fs1600%2f006815-01-hotel-exterior-pool-night.jpg&ehk=hLLbDMfuPOH9yExUK9kp1aG%2bFRktuX9UkU30AOjRB8U%3d&risl=&pid=ImgRaw&r=0",
+      "https://th.bing.com/th/id/OIP.KT2xsfFfYs44_opDSaJXpAHaED?pid=ImgDet&w=474&h=259&rs=1"
+    ],
+    "rentperday": 5500,
+    "type": "Non-Deluxe",
+    "maxcount": 4,
+    "phonenumber": 98684567875357,
+    "curremtbookings": [],
+    "description": "Toyin Hotel is located in Badagry Imo state"
+  },
+  {
+    "name": "Oyin Hotel",
+    "imageurls": [
+      "https://i.pinimg.com/originals/53/f2/92/53f292fc91900361e3525bfe24cd9805.jpg",
+      "https://i.pinimg.com/originals/04/2c/13/042c13e523d22f1415f37f20c7bea82f.jpg"
+    ],
+    "rentperday": 7500,
+    "type": "Deluxe",
+    "maxcount": 1,
+    "phonenumber": 889977667654567,
+    "curremtbookings": [],
+    "description": "Oyin Hotel is located in Kankawa Kano state"
+  },
+  {
+    "name": "T Hotel",
+    "imageurls": [
+      "https://locatelondon.cushmanwakefield.co.uk/wp-content/uploads/2018/07/Adam-St-7-10-a-Adam-House-Intl.jpg",
+      "https://th.bing.com/th/id/R.0aa57c50fb5c8eb08f92791e5bfdabc7?rik=2q3DiUVMK0zv8A&riu=http%3a%2f%2fchm-cloud-storage.s3.amazonaws.com%2fimages%2fmade%2fimages%2fremote%2fhttp_s3-eu-west-1.amazonaws.com%2fchm-cloud-storage%2flocations%2fGeorgian_House_New%2fFitzroy-49_450_300_s_c1_c_t.jpg&ehk=lOtZbMkfPVCwyqyhbngcdlv7ueuolOBAirppwuz6Sy8%3d&risl=&pid=ImgRaw&r=0"
+    ],
+    "rentperday": 4500,
+    "type": "Non-Deluxe",
+    "maxcount": 6,
+    "phonenumber": 998877665544,
+    "curremtbookings": [],
+    "description": "T Hotel is located in Agbara Ondo state"
+  }
+]

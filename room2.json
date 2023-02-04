@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Hotel Shiva",
+    "imageurls": [
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redrockresort.com%2Fstay%2Frooms%2Fluxury-two-queens%2F&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABAE",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redrockresort.com%2Fstay%2F&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABAQ"
+    ],
+    "rentperday": 1500,
+    "type": "Deluxe",
+    "maxcount": 3,
+    "phonenumber": 456986875357,
+    "curremtbookings": [],
+    "description": "Hotel Shiva is located in Badagry Lagos state"
+  },
+  {
+    "name": "Stella hotel",
+    "imageurls": [
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theelizabethcolorado.com%2Fstay%2Frooms&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABA3",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rd.com%2Flist%2Fdirty-hotel-room%2F&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABAv"
+    ],
+    "rentperday": 3500,
+    "type": "Deluxe",
+    "maxcount": 2,
+    "phonenumber": 4345986875357,
+    "curremtbookings": [],
+    "description": "Stella hotel is located in Gaa-Kanbi Kwara state"
+  },
+  {
+    "name": "Toyin Hotel",
+    "imageurls": [
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.makemytrip.com%2Fhotels%2Fhotel_shivansh-details-nanpara.html&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABAn",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Finsights.ehotelier.com%2Finsights%2F2020%2F02%2F05%2F5-factors-that-can-affect-the-price-of-your-hotel-rooms%2F&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABAf"
+    ],
+    "rentperday": 5500,
+    "type": "Non-Deluxe",
+    "maxcount": 4,
+    "phonenumber": 98684567875357,
+    "curremtbookings": [],
+    "description": "Toyin Hotel is located in Badagry Imo state"
+  },
+  {
+    "name": "Oyin Hotel",
+    "imageurls": [
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Frhotelgeelong.com.au%2Faccommodation%2Fhotel-rooms%2F&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABA_",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.agoda.com%2Fhotel-room-89-courtenay-place%2Fhotel%2Fwellington-nz.html&psig=AOvVaw0B6tS-5d9zZaQuaJNHMfCU&ust=1675161442357000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCv1-eM7_wCFQAAAAAdAAAAABBX"
+    ],
+    "rentperday": 7500,
+    "type": "Deluxe",
+    "maxcount": 1,
+    "phonenumber": 889977667654567,
+    "curremtbookings": [],
+    "description": "Oyin Hotel is located in Kankawa Kano state"
+  },
+  {
+    "name": "T Hotel",
+    "imageurls": [
+      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fq-xx.bstatic.com%2Fxdata%2Fimages%2Fhotel%2F840x460%2F148099656.jpg%3Fk%3Ddeea0b8cb989133477e9cd6f32312667e4ceb7d8ba6e2bf27cf559b041c1cf15%26o%3D&imgrefurl=https%3A%2F%2Fwww.agoda.com%2Fen-ie%2Fsoleil-luxury-rooms-old-town%2Fhotel%2Fdubrovnik-hr.html&tbnid=z0RPxGJEEdbyEM&vet=12ahUKEwj39KLWj-_8AhW5X6QEHZE9CYMQMygHegUIARDpAQ..i&docid=nETboav8eE2VVM&w=840&h=460&q=rooms&ved=2ahUKEwj39KLWj-_8AhW5X6QEHZE9CYMQMygHegUIARDpAQ"
+    ],
+    "rentperday": 4500,
+    "type": "Non-Deluxe",
+    "maxcount": 6,
+    "phonenumber": 998877665544,
+    "curremtbookings": [],
+    "description": "T Hotel is located in Agbara Ondo state"
+  }
+]
